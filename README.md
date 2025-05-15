@@ -1,0 +1,1 @@
+The Weather App provides real-time weather information for any location worldwide. Built using HTML, CSS, and JavaScript, this app fetches data from a reliable weather API to deliver accurate forecasts
